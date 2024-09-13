@@ -1,0 +1,114 @@
+.statis-main {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 100%;
+  height: 800px;
+  padding: 10px 50px;
+  margin: 30px;
+  border-radius: 6px;
+  background: white;
+  box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
+}
+
+.statis-function {
+  margin-top: 40px;
+  display: flex;
+}
+
+.statis-function div {
+  border: 1px solid rgb(224, 221, 221);
+  padding: 10px 40px;
+  cursor: pointer;
+  background-color: rgb(255, 255, 255);
+}
+
+.statis-function div.selected {
+  background-color: rgb(245, 242, 242);
+}
+
+.function-main {
+  margin: 30px auto;
+}
+
+.list_product-allproducts {
+  overflow-y: auto;
+  max-height: 450px;
+}
+
+.quantity h1 {
+  text-align: center;
+}
+
+.ProductsSell h1 {
+  text-align: center;
+}
+
+.order-item {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.order-item p {
+  flex: 1;
+  margin: 0;
+  text-align: center;
+}
+
+.list_order-main {
+  display: grid;
+  grid-template-columns: 1fr 3fr 1fr 1fr 1fr;
+  gap: 10px;
+  width: 100%;
+  padding: 20px 0px;
+  color: #454545;
+  font-size: 15px;
+  font-weight: 600;
+}
+
+.orderDate {
+  display: flex;
+  /* height: 30px; */
+  gap: 20px;
+  align-items: center;
+  justify-content: center;
+}
+
+.list-products-sell {
+  overflow-y: auto;
+  max-height: 400px;
+}
+
+.list_orderdt-main {
+  display: grid;
+  grid-template-columns: 6.5fr 17fr 5.5fr 6fr;
+  gap: 41px;
+  width: 100%;
+  padding: 20px 0px;
+  color: #454545;
+  font-size: 15px;
+  font-weight: 600;
+}
+
+.function-main input[type="date"] {
+  font-style: inherit;
+  padding: 10px 10px;
+  border-radius: 20px;
+  border: 1px solid rgb(175, 170, 170);
+  font-family: "Lexend";
+  font-weight: 100;
+}
+
+.function-main button {
+  /* width: 262px;
+  height: 58px; */
+  padding: 10px 10px;
+  outline: none;
+  border: none;
+  background: #41a0ff;
+  color: #fff;
+  cursor: pointer;
+  border-radius: 10px;
+  font-family: "Lexend";
+}

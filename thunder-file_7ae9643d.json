@@ -1,0 +1,700 @@
+[
+  {
+    "_id": "6669545fe53837999b6e46f8",
+    "DH_TONGTIEN": 65000,
+    "DH_TRANGTHAI": "Đã thanh toán",
+    "DH_LOAI": {
+      "_id": "6668318442ffcb2f58e149fd",
+      "L_TEN": "Tại chỗ"
+    },
+    "DH_NHANVIENLAP": {
+      "_id": "6669440ffe80921c24296e6b",
+      "ND_TEN": "Kiều Tấn Quốc",
+      "ND_SDT": "0949566841"
+    },
+    "DH_THEBAN": 22,
+    "DH_KHACHHANG": null,
+    "DH_THANHTOAN": {
+      "_id": "666560bc96660df88e1bee95",
+      "TT_TENPHUONGTHUC": "Tiền mặt"
+    },
+    "DH_TIENKHACHDUA": 70000,
+    "DH_TIENTRALAI": 5000,
+    "DH_NGAYLAP": "2024-06-12T07:55:11.492Z",
+    "CHITIETDONHANG": [
+      {
+        "CTDH_SP": {
+          "_id": "665f010cd48b3390065026b8",
+          "SP_TEN": "Trà Đào Cam Sả Đá"
+        },
+        "CTDH_KICHCO": {
+          "_id": "665b6071e9ecfc0859647efc",
+          "KC_TEN": "Size L"
+        },
+        "CTDH_GIA": 65000,
+        "quantity": 1,
+        "_id": "6669545fe53837999b6e46fd"
+      }
+    ],
+    "__v": 0
+  },
+  {
+    "_id": "66695478e53837999b6e4708",
+    "DH_TONGTIEN": 65000,
+    "DH_TRANGTHAI": "Đã thanh toán",
+    "DH_LOAI": {
+      "_id": "6668318442ffcb2f58e149fd",
+      "L_TEN": "Tại chỗ"
+    },
+    "DH_NHANVIENLAP": {
+      "_id": "6669440ffe80921c24296e6b",
+      "ND_TEN": "Kiều Tấn Quốc",
+      "ND_SDT": "0949566841"
+    },
+    "DH_THEBAN": 22,
+    "DH_KHACHHANG": {
+      "_id": "665d4d562da9f3874480fb48",
+      "KH_ID": 2,
+      "KH_TEN": "Kiều Tấn Quốc",
+      "KH_SDT": "0949566841",
+      "KH_EMAIL": "kieutanquoc2002@gmail.com",
+      "KH_TRANGTHAITHANHVIEN": "Đặt bàn",
+      "__v": 0
+    },
+    "DH_THANHTOAN": {
+      "_id": "666560bc96660df88e1bee95",
+      "TT_TENPHUONGTHUC": "Tiền mặt"
+    },
+    "DH_TIENKHACHDUA": 70000,
+    "DH_TIENTRALAI": 5000,
+    "DH_NGAYLAP": "2024-06-09T07:55:36.788Z",
+    "CHITIETDONHANG": [
+      {
+        "CTDH_SP": {
+          "_id": "665f010cd48b3390065026b8",
+          "SP_TEN": "Trà Đào Cam Sả Đá"
+        },
+        "CTDH_KICHCO": {
+          "_id": "665b6071e9ecfc0859647efc",
+          "KC_TEN": "Size L"
+        },
+        "CTDH_GIA": 65000,
+        "quantity": 1,
+        "_id": "66695479e53837999b6e470d"
+      }
+    ],
+    "__v": 0
+  },
+  {
+    "_id": "6669548fe53837999b6e4718",
+    "DH_TONGTIEN": 65000,
+    "DH_TRANGTHAI": "Đã thanh toán",
+    "DH_LOAI": {
+      "_id": "6668318442ffcb2f58e149fd",
+      "L_TEN": "Tại chỗ"
+    },
+    "DH_NHANVIENLAP": {
+      "_id": "6669440ffe80921c24296e6b",
+      "ND_TEN": "Kiều Tấn Quốc",
+      "ND_SDT": "0949566841"
+    },
+    "DH_THEBAN": 22,
+    "DH_KHACHHANG": null,
+    "DH_THANHTOAN": {
+      "_id": "666560bc96660df88e1bee95",
+      "TT_TENPHUONGTHUC": "Tiền mặt"
+    },
+    "DH_TIENKHACHDUA": 65000,
+    "DH_TIENTRALAI": 0,
+    "DH_NGAYLAP": "2024-06-12T07:55:59.319Z",
+    "CHITIETDONHANG": [
+      {
+        "CTDH_SP": {
+          "_id": "665f010cd48b3390065026b8",
+          "SP_TEN": "Trà Đào Cam Sả Đá"
+        },
+        "CTDH_KICHCO": {
+          "_id": "665b6071e9ecfc0859647efc",
+          "KC_TEN": "Size L"
+        },
+        "CTDH_GIA": 65000,
+        "quantity": 1,
+        "_id": "6669548fe53837999b6e471d"
+      }
+    ],
+    "__v": 0
+  },
+  {
+    "_id": "666954cce53837999b6e4759",
+    "DH_TONGTIEN": 129000,
+    "DH_TRANGTHAI": "Đã thanh toán",
+    "DH_LOAI": {
+      "_id": "6668318442ffcb2f58e149fd",
+      "L_TEN": "Tại chỗ"
+    },
+    "DH_NHANVIENLAP": {
+      "_id": "6669440ffe80921c24296e6b",
+      "ND_TEN": "Kiều Tấn Quốc",
+      "ND_SDT": "0949566841"
+    },
+    "DH_THEBAN": 11,
+    "DH_KHACHHANG": null,
+    "DH_THANHTOAN": {
+      "_id": "666560bc96660df88e1bee95",
+      "TT_TENPHUONGTHUC": "Tiền mặt"
+    },
+    "DH_TIENKHACHDUA": 129000,
+    "DH_TIENTRALAI": 0,
+    "DH_NGAYLAP": "2024-06-12T07:57:00.541Z",
+    "CHITIETDONHANG": [
+      {
+        "CTDH_SP": {
+          "_id": "665ef72ed48b339006501f5d",
+          "SP_TEN": "Trà sữa xoài Trân châu đen"
+        },
+        "CTDH_KICHCO": {
+          "_id": "665b6071e9ecfc0859647efc",
+          "KC_TEN": "Size L"
+        },
+        "CTDH_GIA": 51000,
+        "quantity": 1,
+        "_id": "666954cce53837999b6e475e"
+      },
+      {
+        "CTDH_SP": {
+          "_id": "665f0304d48b339006502a66",
+          "SP_TEN": "Sữa Chua Đá"
+        },
+        "CTDH_KICHCO": {
+          "_id": "665b6071e9ecfc0859647efc",
+          "KC_TEN": "Size L"
+        },
+        "CTDH_GIA": 78000,
+        "quantity": 2,
+        "_id": "666954cce53837999b6e4762"
+      }
+    ],
+    "__v": 0
+  },
+  {
+    "_id": "666954d9e53837999b6e4770",
+    "DH_TONGTIEN": 129000,
+    "DH_TRANGTHAI": "Đã thanh toán",
+    "DH_LOAI": {
+      "_id": "6668318442ffcb2f58e149fd",
+      "L_TEN": "Tại chỗ"
+    },
+    "DH_NHANVIENLAP": {
+      "_id": "6669440ffe80921c24296e6b",
+      "ND_TEN": "Kiều Tấn Quốc",
+      "ND_SDT": "0949566841"
+    },
+    "DH_THEBAN": 11,
+    "DH_KHACHHANG": {
+      "_id": "665d4d562da9f3874480fb48",
+      "KH_ID": 2,
+      "KH_TEN": "Kiều Tấn Quốc",
+      "KH_SDT": "0949566841",
+      "KH_EMAIL": "kieutanquoc2002@gmail.com",
+      "KH_TRANGTHAITHANHVIEN": "Đặt bàn",
+      "__v": 0
+    },
+    "DH_THANHTOAN": {
+      "_id": "666560bc96660df88e1bee95",
+      "TT_TENPHUONGTHUC": "Tiền mặt"
+    },
+    "DH_TIENKHACHDUA": 129000,
+    "DH_TIENTRALAI": 0,
+    "DH_NGAYLAP": "2024-06-10T07:57:13.646Z",
+    "CHITIETDONHANG": [
+      {
+        "CTDH_SP": {
+          "_id": "665ef72ed48b339006501f5d",
+          "SP_TEN": "Trà sữa xoài Trân châu đen"
+        },
+        "CTDH_KICHCO": {
+          "_id": "665b6071e9ecfc0859647efc",
+          "KC_TEN": "Size L"
+        },
+        "CTDH_GIA": 51000,
+        "quantity": 1,
+        "_id": "666954d9e53837999b6e4775"
+      },
+      {
+        "CTDH_SP": {
+          "_id": "665f0304d48b339006502a66",
+          "SP_TEN": "Sữa Chua Đá"
+        },
+        "CTDH_KICHCO": {
+          "_id": "665b6071e9ecfc0859647efc",
+          "KC_TEN": "Size L"
+        },
+        "CTDH_GIA": 78000,
+        "quantity": 2,
+        "_id": "666954dae53837999b6e4779"
+      }
+    ],
+    "__v": 0
+  },
+  {
+    "_id": "6669554be53837999b6e47e7",
+    "DH_TONGTIEN": 440000,
+    "DH_TRANGTHAI": "Đã thanh toán",
+    "DH_LOAI": {
+      "_id": "6668318442ffcb2f58e149fd",
+      "L_TEN": "Tại chỗ"
+    },
+    "DH_NHANVIENLAP": {
+      "_id": "6669440ffe80921c24296e6b",
+      "ND_TEN": "Kiều Tấn Quốc",
+      "ND_SDT": "0949566841"
+    },
+    "DH_THEBAN": 11,
+    "DH_KHACHHANG": {
+      "_id": "665d4d562da9f3874480fb48",
+      "KH_ID": 2,
+      "KH_TEN": "Kiều Tấn Quốc",
+      "KH_SDT": "0949566841",
+      "KH_EMAIL": "kieutanquoc2002@gmail.com",
+      "KH_TRANGTHAITHANHVIEN": "Đặt bàn",
+      "__v": 0
+    },
+    "DH_THANHTOAN": {
+      "_id": "666560bc96660df88e1bee95",
+      "TT_TENPHUONGTHUC": "Tiền mặt"
+    },
+    "DH_TIENKHACHDUA": 440000,
+    "DH_TIENTRALAI": 0,
+    "DH_NGAYLAP": "2024-06-11T07:59:07.257Z",
+    "CHITIETDONHANG": [
+      {
+        "CTDH_SP": {
+          "_id": "665ef72ed48b339006501f5d",
+          "SP_TEN": "Trà sữa xoài Trân châu đen"
+        },
+        "CTDH_KICHCO": {
+          "_id": "665b6071e9ecfc0859647efc",
+          "KC_TEN": "Size L"
+        },
+        "CTDH_GIA": 102000,
+        "quantity": 2,
+        "_id": "6669554be53837999b6e47ec"
+      },
+      {
+        "CTDH_SP": {
+          "_id": "665f010cd48b3390065026b8",
+          "SP_TEN": "Trà Đào Cam Sả Đá"
+        },
+        "CTDH_KICHCO": {
+          "_id": "665b6071e9ecfc0859647efc",
+          "KC_TEN": "Size L"
+        },
+        "CTDH_GIA": 65000,
+        "quantity": 1,
+        "_id": "6669554be53837999b6e47f1"
+      },
+      {
+        "CTDH_SP": {
+          "_id": "665f010cd48b3390065026b8",
+          "SP_TEN": "Trà Đào Cam Sả Đá"
+        },
+        "CTDH_KICHCO": {
+          "_id": "665b6071e9ecfc0859647efc",
+          "KC_TEN": "Size L"
+        },
+        "CTDH_GIA": 195000,
+        "quantity": 3,
+        "_id": "6669554be53837999b6e47f6"
+      },
+      {
+        "CTDH_SP": {
+          "_id": "665f0304d48b339006502a66",
+          "SP_TEN": "Sữa Chua Đá"
+        },
+        "CTDH_KICHCO": {
+          "_id": "665b6071e9ecfc0859647efc",
+          "KC_TEN": "Size L"
+        },
+        "CTDH_GIA": 78000,
+        "quantity": 2,
+        "_id": "6669554ce53837999b6e47fa"
+      }
+    ],
+    "__v": 0
+  },
+  {
+    "_id": "66695b99e53837999b6e48fe",
+    "DH_TONGTIEN": 440000,
+    "DH_TRANGTHAI": "Đã thanh toán",
+    "DH_LOAI": {
+      "_id": "6668317e42ffcb2f58e149fb",
+      "L_TEN": "Mang đi"
+    },
+    "DH_NHANVIENLAP": {
+      "_id": "6669440ffe80921c24296e6b",
+      "ND_TEN": "Kiều Tấn Quốc",
+      "ND_SDT": "0949566841"
+    },
+    "DH_THEBAN": 11,
+    "DH_KHACHHANG": {
+      "_id": "665d4d562da9f3874480fb48",
+      "KH_ID": 2,
+      "KH_TEN": "Kiều Tấn Quốc",
+      "KH_SDT": "0949566841",
+      "KH_EMAIL": "kieutanquoc2002@gmail.com",
+      "KH_TRANGTHAITHANHVIEN": "Đặt bàn",
+      "__v": 0
+    },
+    "DH_THANHTOAN": {
+      "_id": "6665613d8e40f9b496ab9ec5",
+      "TT_TENPHUONGTHUC": "Chuyển khoản"
+    },
+    "DH_TIENKHACHDUA": 440000,
+    "DH_TIENTRALAI": 0,
+    "DH_NGAYLAP": "2024-06-12T08:26:01.484Z",
+    "CHITIETDONHANG": [
+      {
+        "CTDH_SP": {
+          "_id": "665ef72ed48b339006501f5d",
+          "SP_TEN": "Trà sữa xoài Trân châu đen"
+        },
+        "CTDH_KICHCO": {
+          "_id": "665b6071e9ecfc0859647efc",
+          "KC_TEN": "Size L"
+        },
+        "CTDH_GIA": 102000,
+        "quantity": 2,
+        "_id": "66695b99e53837999b6e4903"
+      },
+      {
+        "CTDH_SP": {
+          "_id": "665f010cd48b3390065026b8",
+          "SP_TEN": "Trà Đào Cam Sả Đá"
+        },
+        "CTDH_KICHCO": {
+          "_id": "665b6071e9ecfc0859647efc",
+          "KC_TEN": "Size L"
+        },
+        "CTDH_GIA": 65000,
+        "quantity": 1,
+        "_id": "66695b99e53837999b6e4908"
+      },
+      {
+        "CTDH_SP": {
+          "_id": "665f010cd48b3390065026b8",
+          "SP_TEN": "Trà Đào Cam Sả Đá"
+        },
+        "CTDH_KICHCO": {
+          "_id": "665b6071e9ecfc0859647efc",
+          "KC_TEN": "Size L"
+        },
+        "CTDH_GIA": 195000,
+        "quantity": 3,
+        "_id": "66695b9ae53837999b6e490d"
+      },
+      {
+        "CTDH_SP": {
+          "_id": "665f0304d48b339006502a66",
+          "SP_TEN": "Sữa Chua Đá"
+        },
+        "CTDH_KICHCO": {
+          "_id": "665b6071e9ecfc0859647efc",
+          "KC_TEN": "Size L"
+        },
+        "CTDH_GIA": 78000,
+        "quantity": 2,
+        "_id": "66695b9ae53837999b6e4911"
+      }
+    ],
+    "__v": 0
+  },
+  {
+    "_id": "666a4a08910b22ada2e6a6ab",
+    "DH_TONGTIEN": 140000,
+    "DH_TRANGTHAI": "Đã thanh toán",
+    "DH_LOAI": {
+      "_id": "6668318442ffcb2f58e149fd",
+      "L_TEN": "Tại chỗ"
+    },
+    "DH_NHANVIENLAP": {
+      "_id": "6669440ffe80921c24296e6b",
+      "ND_TEN": "Kiều Tấn Quốc",
+      "ND_SDT": "0949566841"
+    },
+    "DH_THEBAN": 17,
+    "DH_KHACHHANG": null,
+    "DH_THANHTOAN": {
+      "_id": "666560bc96660df88e1bee95",
+      "TT_TENPHUONGTHUC": "Tiền mặt"
+    },
+    "DH_TIENKHACHDUA": 140000,
+    "DH_TIENTRALAI": 0,
+    "DH_NGAYLAP": "2024-06-13T01:23:20.407Z",
+    "CHITIETDONHANG": [
+      {
+        "CTDH_SP": {
+          "_id": "665eee75d48b339006501d2d",
+          "SP_TEN": "Bạc xỉu"
+        },
+        "CTDH_KICHCO": {
+          "_id": "665b6071e9ecfc0859647efc",
+          "KC_TEN": "Size L"
+        },
+        "CTDH_GIA": 140000,
+        "quantity": 4,
+        "_id": "666a4a08910b22ada2e6a6b0"
+      }
+    ],
+    "__v": 0
+  },
+  {
+    "_id": "666a4fb8910b22ada2e6a8cb",
+    "DH_TONGTIEN": 372000,
+    "DH_TRANGTHAI": "Đã thanh toán",
+    "DH_LOAI": {
+      "_id": "6668318442ffcb2f58e149fd",
+      "L_TEN": "Tại chỗ"
+    },
+    "DH_NHANVIENLAP": {
+      "_id": "6669440ffe80921c24296e6b",
+      "ND_TEN": "Kiều Tấn Quốc",
+      "ND_SDT": "0949566841"
+    },
+    "DH_THEBAN": 22,
+    "DH_KHACHHANG": null,
+    "DH_THANHTOAN": {
+      "_id": "666560bc96660df88e1bee95",
+      "TT_TENPHUONGTHUC": "Tiền mặt"
+    },
+    "DH_TIENKHACHDUA": 372000,
+    "DH_TIENTRALAI": 0,
+    "DH_NGAYLAP": "2024-06-13T01:47:36.779Z",
+    "CHITIETDONHANG": [
+      {
+        "CTDH_SP": {
+          "_id": "665efde7d48b3390065022b8",
+          "SP_TEN": "Đường Đen Marble Latte"
+        },
+        "CTDH_KICHCO": {
+          "_id": "665b6071e9ecfc0859647efc",
+          "KC_TEN": "Size L"
+        },
+        "CTDH_GIA": 177000,
+        "quantity": 3,
+        "_id": "666a4fb8910b22ada2e6a8d0"
+      },
+      {
+        "CTDH_SP": {
+          "_id": "665f010cd48b3390065026b8",
+          "SP_TEN": "Trà Đào Cam Sả Đá"
+        },
+        "CTDH_KICHCO": {
+          "_id": "665b6071e9ecfc0859647efc",
+          "KC_TEN": "Size L"
+        },
+        "CTDH_GIA": 195000,
+        "quantity": 3,
+        "_id": "666a4fb8910b22ada2e6a8d5"
+      }
+    ],
+    "__v": 0
+  },
+  {
+    "_id": "666a5011910b22ada2e6a8f3",
+    "DH_TONGTIEN": 372000,
+    "DH_TRANGTHAI": "Đã thanh toán",
+    "DH_LOAI": {
+      "_id": "6668318442ffcb2f58e149fd",
+      "L_TEN": "Tại chỗ"
+    },
+    "DH_NHANVIENLAP": {
+      "_id": "6669440ffe80921c24296e6b",
+      "ND_TEN": "Kiều Tấn Quốc",
+      "ND_SDT": "0949566841"
+    },
+    "DH_THEBAN": 22,
+    "DH_KHACHHANG": null,
+    "DH_THANHTOAN": {
+      "_id": "666560bc96660df88e1bee95",
+      "TT_TENPHUONGTHUC": "Tiền mặt"
+    },
+    "DH_TIENKHACHDUA": 372000,
+    "DH_TIENTRALAI": 0,
+    "DH_NGAYLAP": "2024-06-13T01:49:05.191Z",
+    "CHITIETDONHANG": [
+      {
+        "CTDH_SP": {
+          "_id": "665efde7d48b3390065022b8",
+          "SP_TEN": "Đường Đen Marble Latte"
+        },
+        "CTDH_KICHCO": {
+          "_id": "665b6071e9ecfc0859647efc",
+          "KC_TEN": "Size L"
+        },
+        "CTDH_GIA": 177000,
+        "quantity": 3,
+        "_id": "666a5011910b22ada2e6a8f8"
+      },
+      {
+        "CTDH_SP": {
+          "_id": "665f010cd48b3390065026b8",
+          "SP_TEN": "Trà Đào Cam Sả Đá"
+        },
+        "CTDH_KICHCO": {
+          "_id": "665b6071e9ecfc0859647efc",
+          "KC_TEN": "Size L"
+        },
+        "CTDH_GIA": 195000,
+        "quantity": 3,
+        "_id": "666a5011910b22ada2e6a8fd"
+      }
+    ],
+    "__v": 0
+  },
+  {
+    "_id": "666a503b910b22ada2e6a91c",
+    "DH_TONGTIEN": 153000,
+    "DH_TRANGTHAI": "Đã thanh toán",
+    "DH_LOAI": {
+      "_id": "6668317e42ffcb2f58e149fb",
+      "L_TEN": "Mang đi"
+    },
+    "DH_NHANVIENLAP": {
+      "_id": "6669440ffe80921c24296e6b",
+      "ND_TEN": "Kiều Tấn Quốc",
+      "ND_SDT": "0949566841"
+    },
+    "DH_THEBAN": 5,
+    "DH_KHACHHANG": {
+      "_id": "665d4d562da9f3874480fb48",
+      "KH_ID": 2,
+      "KH_TEN": "Kiều Tấn Quốc",
+      "KH_SDT": "0949566841",
+      "KH_EMAIL": "kieutanquoc2002@gmail.com",
+      "KH_TRANGTHAITHANHVIEN": "Đặt bàn",
+      "__v": 0
+    },
+    "DH_THANHTOAN": {
+      "_id": "6665613d8e40f9b496ab9ec5",
+      "TT_TENPHUONGTHUC": "Chuyển khoản"
+    },
+    "DH_TIENKHACHDUA": 153000,
+    "DH_TIENTRALAI": 0,
+    "DH_NGAYLAP": "2024-06-13T01:49:47.819Z",
+    "CHITIETDONHANG": [
+      {
+        "CTDH_SP": {
+          "_id": "665ef72ed48b339006501f5d",
+          "SP_TEN": "Trà sữa xoài Trân châu đen"
+        },
+        "CTDH_KICHCO": {
+          "_id": "665b6071e9ecfc0859647efc",
+          "KC_TEN": "Size L"
+        },
+        "CTDH_GIA": 153000,
+        "quantity": 3,
+        "_id": "666a503b910b22ada2e6a921"
+      }
+    ],
+    "__v": 0
+  },
+  {
+    "_id": "666abb9bd63e21ecb4a1ead6",
+    "DH_TONGTIEN": 65000,
+    "DH_TRANGTHAI": "Đã thanh toán",
+    "DH_LOAI": {
+      "_id": "6668318442ffcb2f58e149fd",
+      "L_TEN": "Tại chỗ"
+    },
+    "DH_NHANVIENLAP": {
+      "_id": "6669440ffe80921c24296e6b",
+      "ND_TEN": "Kiều Tấn Quốc",
+      "ND_SDT": "0949566841"
+    },
+    "DH_THEBAN": 11,
+    "DH_KHACHHANG": {
+      "_id": "665d4d562da9f3874480fb48",
+      "KH_ID": 2,
+      "KH_TEN": "Kiều Tấn Quốc",
+      "KH_SDT": "0949566841",
+      "KH_EMAIL": "kieutanquoc2002@gmail.com",
+      "KH_TRANGTHAITHANHVIEN": "Đặt bàn",
+      "__v": 0
+    },
+    "DH_THANHTOAN": {
+      "_id": "666560bc96660df88e1bee95",
+      "TT_TENPHUONGTHUC": "Tiền mặt"
+    },
+    "DH_TIENKHACHDUA": 70000,
+    "DH_TIENTRALAI": 5000,
+    "DH_NGAYLAP": "2024-06-13T09:27:55.011Z",
+    "CHITIETDONHANG": [
+      {
+        "CTDH_SP": {
+          "_id": "665f010cd48b3390065026b8",
+          "SP_TEN": "Trà Đào Cam Sả Đá"
+        },
+        "CTDH_KICHCO": {
+          "_id": "665b6071e9ecfc0859647efc",
+          "KC_TEN": "Size L"
+        },
+        "CTDH_GIA": 65000,
+        "quantity": 1,
+        "_id": "666abb9bd63e21ecb4a1eadb"
+      }
+    ],
+    "__v": 0
+  },
+  {
+    "_id": "666abbb3d63e21ecb4a1eb28",
+    "DH_TONGTIEN": 134000,
+    "DH_TRANGTHAI": "Đã thanh toán",
+    "DH_LOAI": {
+      "_id": "6668318442ffcb2f58e149fd",
+      "L_TEN": "Tại chỗ"
+    },
+    "DH_NHANVIENLAP": {
+      "_id": "6669440ffe80921c24296e6b",
+      "ND_TEN": "Kiều Tấn Quốc",
+      "ND_SDT": "0949566841"
+    },
+    "DH_THEBAN": 11,
+    "DH_KHACHHANG": null,
+    "DH_THANHTOAN": {
+      "_id": "666560bc96660df88e1bee95",
+      "TT_TENPHUONGTHUC": "Tiền mặt"
+    },
+    "DH_TIENKHACHDUA": 150000,
+    "DH_TIENTRALAI": 16000,
+    "DH_NGAYLAP": "2024-06-13T09:28:19.171Z",
+    "CHITIETDONHANG": [
+      {
+        "CTDH_SP": {
+          "_id": "665f010cd48b3390065026b8",
+          "SP_TEN": "Trà Đào Cam Sả Đá"
+        },
+        "CTDH_KICHCO": {
+          "_id": "665b6071e9ecfc0859647efc",
+          "KC_TEN": "Size L"
+        },
+        "CTDH_GIA": 65000,
+        "quantity": 1,
+        "_id": "666abbb3d63e21ecb4a1eb2d"
+      },
+      {
+        "CTDH_SP": {
+          "_id": "665f02b1d48b339006502970",
+          "SP_TEN": "Sữa Chua Dâu"
+        },
+        "CTDH_KICHCO": {
+          "_id": "665b6071e9ecfc0859647efc",
+          "KC_TEN": "Size L"
+        },
+        "CTDH_GIA": 69000,
+        "quantity": 1,
+        "_id": "666abbb3d63e21ecb4a1eb31"
+      }
+    ],
+    "__v": 0
+  }
+]
